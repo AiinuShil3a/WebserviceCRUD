@@ -22,6 +22,7 @@ const genRestaurantCard = (restaurant) => {
 
   const restaurants = document.querySelector("#restaurants");
   //console.log(card);
+  //console.log(restaurants);
   restaurants.appendChild(card);
 };
 
